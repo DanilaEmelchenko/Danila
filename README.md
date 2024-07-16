@@ -1,1 +1,3 @@
-<iframe src="https://giphy.com/embed/M4NykXxUE0HAcK7UJ6" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/shecodesio-computer-javascript-shecodes-M4NykXxUE0HAcK7UJ6">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFwNTE1NHo3cGRtYTM2NjJvM3o5bXJ2amZrdzFuZXpuYTFpYW9hayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
+</div>
