@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/cloud.svg" alt="cloud" width="40" />
   <br>
-  Hi, I'm Данила 👋
+  Привет, я Данила 👋
 </h1>
 
 <p align="center">
-  <strong>Frontend Developer</strong> 🚀 | <em>Creating beautiful, responsive & performant web experiences</em>
+  <strong>Frontend-разработчик</strong> 🚀 | Создаю красивые, быстрые и удобные веб-приложения
 </p>
 
 <p align="center">
@@ -25,44 +25,46 @@
 
 ---
 
-### 💼 About Me
+### 💼 О себе
 
-I'm a passionate **Frontend Developer** with a focus on building modern, user-friendly web applications using **HTML, CSS, JavaScript, React, and TypeScript**. I love turning ideas into clean, responsive, and accessible interfaces.
+Я — увлечённый **Frontend-разработчик**, который превращает идеи в красивые, отзывчивые и производительные интерфейсы.  
+Работаю с **HTML, CSS, JavaScript, React, TypeScript, Next.js** и всем, что помогает создавать лучший пользовательский опыт.
 
-✨ I enjoy solving complex UI problems and optimizing performance to deliver the best user experience.
+✨ Люблю чистый код, доступность, анимации и оптимизацию. Каждая строка — это маленькая часть искусства.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Технологии
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,redux,nextjs,webpack,vite,git,github,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,redux,nextjs,webpack,vite,git,github,figma" alt="Технологии" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danilacode&show_icons=true&theme=dark&hide_border=true&locale=en" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilacode&layout=compact&theme=dark&hide_border=true&locale=en" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danilacode&show_icons=true&theme=dark&hide_border=true&locale=ru" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilacode&layout=compact&theme=dark&hide_border=true&locale=ru" alt="Топ языки" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danilacode&theme=dark&hide_border=true&locale=en" alt="WakaTime" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danilacode&theme=dark&hide_border=true&locale=ru" alt="WakaTime" />
 </p>
 
 ---
 
-### 🌟 Fun Facts
+### 🌟 Интересные факты
 
-- 🎯 I write code like poetry — clean, elegant, and meaningful.
-- 🎮 I love video games and often draw inspiration from game design.
-- 📚 Always learning new things — especially in UI/UX and performance optimization.
+- 🎯 Пишу код, как поэзию — чисто, элегантно, с смыслом.
+- 🎮 Увлекаюсь видеоиграми — часто черпаю вдохновение из их дизайна.
+- 📚 Всегда в поиске нового: UI/UX, производительность, accessibility.
+- 🎨 Мечтаю создать веб-приложение, которое изменит жизнь хоть одного человека.
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/star.svg" alt="star" width="20" />
-  If you like my work, give me a ⭐ — it means a lot!
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/star.svg" alt="звезда" width="20" />
+  Если тебе нравится мой профиль — поставь ⭐, это очень важно!
 </p>
