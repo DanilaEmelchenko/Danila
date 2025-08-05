@@ -46,10 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaEmelchenko&layout=compact&theme=dark&hide_border=true&locale=ru" alt="Топ языки" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DanilaEmelchenko&theme=dark&hide_border=true&locale=ru" alt="WakaTime" />
-</p>
-
 ---
 
 <p align="center">
