@@ -33,7 +33,7 @@
 ### 🛠️ Технологии
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,redux,pinia,nextjs,webpack,vite,git,github,figma" alt="Технологии" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,redux,pinia,nextjs,tailwindcss,webpack,vite,git,github,figma" alt="Технологии" />
 </p>
 
 ---
