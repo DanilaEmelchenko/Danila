@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/cloud.svg" alt="cloud" width="40" />
   <br>
   Привет, я Данила 👋
 </h1>
@@ -12,7 +11,7 @@
   <a href="mailto:emelchenko1997@yandex.ru">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/furyyxx" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/DanilaEmelchenko" target="_blank">
