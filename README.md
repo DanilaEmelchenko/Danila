@@ -32,9 +32,25 @@
 
 ### 🛠️ Технологии
 
+#### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,redux,pinia,nextjs,tailwindcss,webpack,vite,git,github,figma" alt="Технологии" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,nextjs,tailwindcss" alt="Frontend" />
 </p>
+
+#### ⚙️ Инструменты & Построение
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=webpack,vite,git,github" alt="Инструменты" />
+</p>
+
+#### 🎨 Дизайн & Аналитика
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+</p>
+
+#### 📊 Управление состоянием
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux,pinia" alt="State Management" />
+</p
 
 ---
 
